@@ -1,4 +1,8 @@
 # Correlation and regression for data analysis
+## DEVELOPED BY : DILLI BABU K
+## REG NO : 212224110015
+## DATE : 28/03/2025
+## DEPT : BE CSE(IOT)
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
